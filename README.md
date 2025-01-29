@@ -1,7 +1,7 @@
 À Propos de moi  
 ---
 
-Je me nomme Mouhamed Sylla, étudiant en troisième de licence informatique à l'université Amadou Makhtar Mbow de Diamniadio.
+Je suis étudiant en troisième de licence informatique à l'université Amadou Makhtar Mbow de Diamniadio.
 Passionné par le développement web et l'informatique en général, je m'efforce d'acquérir des compétences solides afin de relever les défis de ce domaine exigeant.
 Je suis également intéressé par les opportunités de collaboration sur des projets innovants qui me permettront de mettre en pratique mes compétences et d'apprendre de nouvelles technologies.
 
